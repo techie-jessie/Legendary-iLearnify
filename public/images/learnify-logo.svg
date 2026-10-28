@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <title>Learnify logo</title>
+  <desc>Purple graduation cap icon beside the Learnify wordmark.</desc>
+  <g fill="#4024E8">
+    <!-- Graduation cap top -->
+    <path d="M34 76 L142 24 Q150 20 158 24 L266 76 Q274 80 266 85 L158 137 Q150 141 142 137 L34 85 Q26 80 34 76 Z"/>
+    <!-- Cap band -->
+    <path d="M66 103 L142 140 Q150 144 158 140 L234 103 L234 145 Q234 158 220 166 L168 194 Q150 203 132 194 L80 166 Q66 158 66 145 Z"/>
+    <!-- Tassel cord and end -->
+    <path d="M42 83 L42 153 Q42 159 48 163 L48 176 L39 203 Q37 210 44 214 Q52 218 58 212 Q62 208 60 202 L53 176 L53 163 Q60 158 60 151 L60 92 Z"/>
+  </g>
+  <text x="310" y="190" fill="#4024E8" font-family="Arimo, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="-4">Learnify</text>
+</svg>
